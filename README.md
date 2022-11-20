@@ -1,4 +1,4 @@
-<p>ERC721 Token Name: Star Token></p>
+<p>ERC721 Token Name: Star Token</p>
 <p>ERC721 Token Symbol: STA</p>
 <p>Truffle Version: 5.6.4</p>
 <p>OpenZeppelin Version: 4.8.0</p>
